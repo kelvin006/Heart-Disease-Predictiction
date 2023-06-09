@@ -1,2 +1,4 @@
 # Heart-Disease-Predictiction
-The aim of the project is to hasten heart disease diagnosis by about 30% to save doctors and medical practitioners time. Various classifier models were built with health dataset (about 70,000 records). The models were evaluated with accuracy and Mathews Correlation Coefficient (MCC). Prior to model building, the given dataset was analysed and some interesting insights were uncovered. Details of the project can be found in the heart disease - proj.ipynb
+The primary objective of this project is to enhance the speed of heart disease diagnosis by approximately 30%, thereby saving valuable time for doctors and medical practitioners. To achieve this, a comprehensive dataset consisting of approximately 70,000 records was utilized to construct various classifier models. The performance of these models was evaluated using accuracy metrics and the Mathews Correlation Coefficient (MCC).
+
+Before developing the models, an in-depth analysis was conducted on the provided dataset, revealing insightful findings. For more detailed information regarding the project and its outcomes, please refer to the heart disease documentation.
